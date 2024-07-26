@@ -145,17 +145,59 @@
           <AssociatedConnUserName />
           <FullPath>20_Kompression.sql</FullPath>
         </FileNode>
+        <FileNode Name="21_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>21_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="22_QueryStore.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>22_QueryStore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="23_MAXDOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>23_MAXDOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="24_ServerProfiler.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>24_ServerProfiler.sql</FullPath>
+        </FileNode>
         <FileNode Name="Aufgaben.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Aufgaben.sql</FullPath>
         </FileNode>
+        <FileNode Name="IndizesUebung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>IndizesUebung.sql</FullPath>
+        </FileNode>
         <FileNode Name="ProzedurMysterium.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>ProzedurMysterium.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Wdh.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Wdh.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WdhPowerWoche.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN11-PL2\SQLKURS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>WdhPowerWoche.sql</FullPath>
         </FileNode>
         <FileNode Name="Wiederholung.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN11-PL2\SQLKURS:True</AssociatedConnectionMoniker>

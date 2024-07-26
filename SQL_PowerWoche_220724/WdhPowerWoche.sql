@@ -1,0 +1,12 @@
+-- SELECT - Spalten auswählen
+-- WHERE - Filtern
+-- LIKE -- Filtern mit ungenauer Bedingung
+-- JOIN - Verknüpfung von zweier Tabellen
+-- Stored Procedures - automatisieren von Code
+-- View - Daten bleiben Aktuell
+-- Temp Table - Temporär Ergebnis speichern
+-- Indizes - Gruppierter Index : Nicht-gruppierten Index : Table Scan
+-- Dateigruppen - Partitionierung - Dateien
+-- Kompressionen -- Row -- Page -- Keine
+-- QueryStore
+-- SQL Server Profiler - Assistent
